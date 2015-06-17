@@ -1697,7 +1697,7 @@ html.ie8 .banner-wrap .featured-thumbnail a img {
 .content_box {
 	background:#f8f8f8;
 	margin:0 0 99px 0;
-	padding:94px 0 47px 0;
+	padding:47px 0 47px 0;
 }
 .content_box:before, .content_box:after { background:#f8f8f8; }
 .content_box.box {
