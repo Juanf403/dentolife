@@ -187,69 +187,81 @@
                                 </div> 
                             </div>
                         </div>
+
                         <div class="row">
                             <div class="span12">
                                 <div id="post-203" class="post-203 page type-page status-publish hentry">
                                     <div class="row ">
-                                        <div class="span12 ">
-                                            <section class="lazy-load-box trigger effect-fade " data-delay="200" data-speed="800" style="-webkit-transition: all 800ms ease; -moz-transition: all 800ms ease; -ms-transition: all 800ms ease; -o-transition: all 800ms ease; transition: all 800ms ease;">
-                                                <ul class="recent-posts list_1 unstyled">
-                                                    <li class="recent-posts_li post-154 services type-services status-publish has-post-thumbnail hentry  list-item-0 clearfix">
-                                                        <div class="inner">
-                                                            <figure class="thumbnail featured-thumbnail">
-                                                            <a href="">
-                                                                <img src="images/11467572-385x453.jpg" alt="Treatment name 01"/>
-                                                            </a>
-                                                            </figure>
-                                                            <div class="caption">
-                                                                <h5>
-                                                                    <a href="" title="Treatment name 01">Treatment name 01</a>
-                                                                </h5>
-                                                                <div class="excerpt">Arenean nonummy hendrerit mau phaselntes nascetur ridic ulusm dui fusce feu. Cras vitae neque turpis,&hellip;</div>
-                                                                    <a href="" class="btn btn-primary" title="Treatment name 01">view now</a>
+                                        <div id="banner-wrapper" class="container">
+                                            <div id="banner" class="pbhs-demo-target" data-original-title="" title="">
+                                                <div id="royalSlider" class="royalSlider rsHor rsFade rsWithBullets pbhs-demo-target" style="opacity: 1; visibility: visible; height: 385px;" data-original-title="" title="">
+                                                    <div class="rsOverflow" style="width: 1000px; height: 385px;">
+                                                        <div class="rsContainer">
+                                                            <div style="z-index: 0; display: none; opacity: 0; -webkit-transition-duration: 0ms; transition-duration: 0ms; -webkit-transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95); transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95);" class="rsSlide ">
+                                                                <div class="rsContent">
+                                                                    <img class="rsImg rsMainSlideImage" src="http://www.freewaysites.com/dental/wp-content/themes/2099-template/_photos/photo3.png" alt="" width="1000" height="385" style="width: 1000px; height: 385px; margin-left: 0px; margin-top: 0px;">                                                        
+                                                                </div>
+                                                            </div>
+                                                            <div style="z-index: 0; display: none; opacity: 0; -webkit-transition-duration: 0ms; transition-duration: 0ms; -webkit-transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95); transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95);" class="rsSlide ">
+                                                                <div class="rsContent">
+                                                                    <img class="rsImg rsMainSlideImage" src="http://www.freewaysites.com/dental/wp-content/themes/2099-template/_photos/photo4.png" alt="" width="1000" height="385" style="width: 1000px; height: 385px; margin-left: 0px; margin-top: 0px;">
+                                                                </div>
+                                                            </div>
+                                                            <div style="z-index: 0; display: block; opacity: 1; -webkit-transition-duration: 1200ms; transition-duration: 1200ms; -webkit-transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95); transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95);" class="rsSlide ">
+                                                                <div class="rsContent">
+                                                                    <img class="rsImg rsMainSlideImage" src="http://www.freewaysites.com/dental/wp-content/themes/2099-template/_photos/photo5.png" alt="" width="1000" height="385" style="width: 1000px; height: 385px; margin-left: 0px; margin-top: 0px;">
+                                                                </div>
+                                                            </div>
+                                                            <div style="z-index: 0; display: none; opacity: 0; -webkit-transition-duration: 0ms; transition-duration: 0ms; -webkit-transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95); transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95);" class="rsSlide ">
+                                                                <div class="rsContent">
+                                                                    <img class="rsImg rsMainSlideImage" src="http://www.freewaysites.com/dental/wp-content/themes/2099-template/_photos/photo6.png" alt="" width="1000" height="385" style="width: 1000px; height: 385px; margin-left: 0px; margin-top: 0px;">
+                                                                </div>
+                                                            </div>
+                                                            <div style="z-index: 0; opacity: 0; display: none; -webkit-transition-duration: 0ms; transition-duration: 0ms; -webkit-transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95); transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95);" class="rsSlide ">
+                                                                <div class="rsContent" style="visibility: visible; opacity: 1; -webkit-transition: opacity 400ms ease-in-out; transition: opacity 400ms ease-in-out;">
+                                                                    <img class="rsImg rsMainSlideImage" src="http://www.freewaysites.com/dental/wp-content/themes/2099-template/_photos/photo1.png" alt="" width="1000" height="385" style="width: 1000px; height: 385px; margin-left: 0px; margin-top: 0px;">                                                            
+                                                                </div>
                                                             </div>
                                                         </div>
-                                                        <div class="clear"></div>
-                                                    </li>
-                                                    <li class="recent-posts_li post-152 services type-services status-publish has-post-thumbnail hentry  list-item-1 clearfix">
-                                                        <div class="inner">
-                                                            <figure class="thumbnail featured-thumbnail">
-                                                                <a href="" title="Treatment name 02">
-                                                                    <img src="images/8851263-385x453.jpg" alt="Treatment name 02"/>
-                                                                </a>
-                                                            </figure>
-                                                            <div class="caption">
-                                                                <h5><a href="" title="Treatment name 02">Treatment name 02</a></h5>
-                                                                <div class="excerpt">Arenean nonummy hendrerit mau phaselntes nascetur ridic ulusm dui fusce feu. Cras vitae neque turpis,&hellip;</div>
-                                                                <a href="" class="btn btn-primary" title="Treatment name 02">view now</a>
-                                                            </div>
+                                                        <div class="rsArrow rsArrowLeft rsHidden" style="display: block;">
+                                                            <div class="rsArrowIcn"></div>
                                                         </div>
-                                                        <div class="clear"></div>
-                                                    </li> 
-                                                    <li class="recent-posts_li post-146 services type-services status-publish has-post-thumbnail hentry  list-item-2 clearfix">
-                                                        <div class="inner">
-                                                            <figure class="thumbnail featured-thumbnail">
-                                                                <a href="" title="Treatment name 03">
-                                                                    <img src="images/12667706-385x453.jpg" alt="Treatment name 03"/>
-                                                                </a>
-                                                            </figure>
-                                                            <div class="caption">
-                                                            <h5><a href="" title="Treatment name 03">Treatment name 03</a></h5>
-                                                                <div class="excerpt">Arenean nonummy hendrerit mau phaselntes nascetur ridic ulusm dui fusce feu. Cras vitae neque turpis,&hellip;</div>
-                                                                <a href="" class="btn btn-primary" title="Treatment name 03">view now</a>
-                                                            </div>
+                                                        <div class="rsArrow rsArrowRight rsHidden" style="display: block;">
+                                                            <div class="rsArrowIcn"></div>
                                                         </div>
-                                                        <div class="clear"></div>
-                                                    </li> 
-                                                </ul> 
-                                            </section>
-                                            <section class="lazy-load-box trigger effect-slideup " data-delay="400" data-speed="800" style="-webkit-transition: all 800ms ease; -moz-transition: all 800ms ease; -ms-transition: all 800ms ease; -o-transition: all 800ms ease; transition: all 800ms ease;">
-                                                <div class="hero-unit">
-                                                    <h1 class="text-center" style="font: 200 normal 16px/24px Avenir, Helvetica, Arial, sans-serif; font-size:40px; line-height: 120%;">Especialidades DENTOLIFE </h1>
-                                                </div> 
-                                            </section>
+                                                    </div>
+                                                    <div class="rsNav rsBullets">
+                                                        <div class="rsNavItem rsBullet">
+                                                            <span></span>
+                                                        </div>
+                                                        <div class="rsNavItem rsBullet"><span></span>
+                                                        </div>
+                                                        <div class="rsNavItem rsBullet"><span></span>
+                                                        </div>
+                                                        <div class="rsNavItem rsBullet"><span></span>
+                                                        </div>
+                                                        <div class="rsNavItem rsBullet rsNavSelected"><span></span>
+                                                        </div>
+                                                        <div class="rsNavItem rsBullet"><span></span>
+                                                        </div>
+                                                    </div>
+                                                </div><!-- end royalSlider -->
+                                                <div id="default-banner-description" style="visibility: visible;">
+                                                    <div id="banner-content" style="margin-left:px;">
+                                                        <h2 class="sf-scaled" style="">Dr. Juan Martinez</h2>
+                                                        <h3 class="sf-scaled" style="">COMPREHENSIVE Cosmetic Dentistry</h3>
+                                                        <p>We promise to provide our patients with the ultimate care in Cosmetic Dentistry. This includes delivering the highest quality of technical care and treating our patients with respect, courtesy, and compassion.</p>
+                                                    </div>
+                                                </div>
+                                            </div><!-- / #banner -->
                                         </div>
-                                    </div> 
+                                    </div>
+                                    <section class="lazy-load-box trigger effect-slideup " data-delay="400" data-speed="800" style="-webkit-transition: all 800ms ease; -moz-transition: all 800ms ease; -ms-transition: all 800ms ease; -o-transition: all 800ms ease; transition: all 800ms ease;">
+                                    <div class="hero-unit">
+                                        <h1 class="text-center" style="font: 200 normal 16px/24px Avenir, Helvetica, Arial, sans-serif; font-size:40px; line-height: 120%;">Especialidades DENTOLIFE </h1>
+                                    </div>             
+                                    </section>
+                                    
                                     <div class="row ">
                                         <div class="span4 ">
                                             <section class="lazy-load-box trigger effect-fade " data-delay="200" data-speed="800" style="-webkit-transition: all 800ms ease; -moz-transition: all 800ms ease; -ms-transition: all 800ms ease; -o-transition: all 800ms ease; transition: all 800ms ease;">
@@ -375,9 +387,9 @@
             </div>
             <footer class="motopress-wrapper footer">
                 <div class="container">
-                    <div class="content_box">
-                        <h1 class="text-center" style="font-size:40px;">Ubicaciones</h1>
+                    <h1 class="text-center" style="font-size:40px;">Ubicaciones</h1>
                         <hr>
+                    <div class="content_box">
                         <div class="span6">
                             <h4 class="">DONACIANO ECHEVERRIA #822 ESQUINA CON CANALES</h4>
                             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3539.3035660714695!2d-99.5239878!3d27.4909331!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86612217ea775c51%3A0xdb221272c8f4c6cd!2sDonaciano+Echevarr%C3%ADa%2C+Hidalgo%2C+88160+Nuevo+Laredo%2C+Tamps.!5e0!3m2!1ses-419!2smx!4v1434470176656" width="500" height="400" frameborder="0" style="border:0"></iframe>
